@@ -1,0 +1,19 @@
+.userForm {
+    margin-left: 20px;
+    border-style: solid;
+    border-color: purple;
+    width: 40%;
+    border-radius: 5px;
+}
+
+.userList {
+    margin-left: 20px;
+    border-style: solid;
+    border-color: purple;
+    border-radius: 5px;
+    width: 50%;   
+}
+
+body {
+    background-color: #fff7de;
+}
